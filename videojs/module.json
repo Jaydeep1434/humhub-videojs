@@ -1,0 +1,9 @@
+{
+    "id": "videojs",
+    "name": "Video.Js player",
+    "description": "Video.Js player ",
+    "keywords": [
+        "video", "wowza",
+    ],
+    "version": "1.0"
+}
